@@ -12,7 +12,7 @@ No desenvolvimento desktop, tenho experiência com C#, C++ e C, com foco em dese
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,php,laravel,nodejs,next" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,laravel,react,nodejs,next" />
   </a>
 </p>
 <p align="center">
