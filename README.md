@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png](https://raw.githubusercontent.com/jvvict0r/jvvict0r/refs/heads/master/cover-thompson.png)" height="200"/>
+  <img src="https://raw.githubusercontent.com/jvvict0r/jvvict0r/refs/heads/master/cover-thompson.png" height="200"/>
 </p>
 
 # 💫 Sobre mim:
