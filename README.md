@@ -25,3 +25,13 @@ No desenvolvimento desktop, tenho experiência com C#, C++ e C, com foco em dese
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,py,java" />
   </a>
 </p>
+
+# 📝 Social Medias: 
+<div align="center">
+  <a href="https://www.linkedin.com/in/jvvict0r/" target="_blank">
+    <img src="https://raw.githubusercontent.com/jvvict0r/jvvict0r/refs/heads/master/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/nkb2SDANrR" target="_blank">
+    <img src="https://raw.githubusercontent.com/jvvict0r/jvvict0r/refs/heads/master/discord.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
