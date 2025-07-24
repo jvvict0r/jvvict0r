@@ -3,11 +3,9 @@
 </p>
 
 # 💫 Sobre mim:
-🚀 Sou um estudante de Sistemas de Informação na Universidade Federal de Sergipe, com uma base sólida em desenvolvimento de software, complementada por minha graduação em Análise e Desenvolvimento de Sistemas pela Unicesumar. Possuo experiência comprovada no desenvolvimento de aplicações web de alta performance, utilizando PHP e frameworks como Laravel, Zend e Symfony. Meu conhecimento abrange tanto o front-end, com proficiência em HTML, CSS, Bootstrap, jQuery e React, quanto o back-end, com expertise em arquitetura de projetos PHP e design patterns. 
+🚀 Sou um estudante de Sistemas de Informação na Universidade Federal de Sergipe, com uma base sólida em desenvolvimento de software, complementada por minha graduação em Análise e Desenvolvimento de Sistemas pela Unicesumar. Possuo experiência no desenvolvimento de aplicações web de alta performance, utilizando PHP e frameworks como Laravel, Zend e Symfony. Meu conhecimento abrange tanto o front-end, quanto o back-end. 
 
-Minha experiência em bancos de dados inclui PostgreSQL, MySQL e SQL, e domino os conceitos de OOP, Web Services, APIs Restful, XML e SOA. Além disso, possuo um forte compromisso com a qualidade do código, aplicando boas práticas como TDD e testes unitários. Minha vivência em processos ágeis de desenvolvimento, com experiência em metodologias como Scrum, me permite trabalhar de forma eficiente em equipes autogerenciáveis. 
-
-Além do desenvolvimento web, possuo amplo conhecimento em desenvolvimento desktop/sistemas, com proficiência em C++, C#, C, .NET, Python e Java. Meu domínio em C++ se estende a um profundo conhecimento das APIs do Windows e da plataforma como um todo, possibilitando o desenvolvimento de aplicações de baixo nível e a realização de engenharia reversa de software. 
+Minha experiência em bancos de dados inclui PostgreSQL, MySQL e SQL, e domino os conceitos de OOP, Web Services, APIs Restful, XML e SOA. Além disso, possuo um forte compromisso com a qualidade do código, aplicando boas práticas como TDD, testes unitários e design patterns. Minha vivência em processos ágeis de desenvolvimento, com experiência em metodologias como Scrum, me permite trabalhar de forma eficiente em equipes autogerenciáveis. Além do desenvolvimento web, possuo amplo conhecimento em desenvolvimento desktop.
 
 Sou um profissional proativo, autodidata e engajado, com foco em resultados e na entrega de valor ao cliente. Busco constantemente aprimorar minhas habilidades e conhecimentos, com um interesse particular em explorar e aprofundar meus conhecimentos em todos os âmbitos da tecnologia. 
 
