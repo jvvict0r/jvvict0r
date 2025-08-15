@@ -22,7 +22,7 @@ Sou um profissional proativo, autodidata e engajado, com foco em resultados e na
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,py,java,delphi" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,py,java" />
   </a>
 </p>
 
