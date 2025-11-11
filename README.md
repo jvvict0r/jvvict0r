@@ -12,7 +12,7 @@ Sou um profissional proativo, autodidata e engajado, com foco em resultados e na
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,laravel,react,next,nodejs,nest" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,php,laravel,react,tailwindcss,nodejs,nest" />
   </a>
 </p>
 <p align="center">
