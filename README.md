@@ -4,9 +4,7 @@
 
 # Victor — Desenvolvedor Full Stack (PHP + JavaScript + C++/C#) <!-- [web:2] -->
 
-Estudante de Sistemas de Informação na UFS e graduado em Análise e Desenvolvimento de Sistemas pela Unicesumar, com foco em aplicações web de alta performance, arquitetura bem definida e entrega contínua de valor. <!-- [web:6] -->  
-Experiência em back-end com PHP (Laravel, Zend, Symfony) e no ecossistema full stack JavaScript com React no front-end, Tailwind CSS para estilização e NestJS no back-end. <!-- [web:6] -->  
-Atuação orientada a resultados com TDD, testes unitários, padrões de projeto, OOP e práticas ágeis (Scrum), mantendo código limpo, escalável e sustentável. <!-- [web:2] -->
+Estudante de Sistemas de Informação na UFS e graduado em Análise e Desenvolvimento de Sistemas pela Unicesumar, com foco em aplicações web de alta performance, arquitetura bem definida e entrega contínua de valor. Experiência em back-end com PHP (Laravel, Zend, Symfony) e no ecossistema full stack JavaScript com React no front-end, Tailwind CSS para estilização e NestJS no back-end.   Atuação orientada a resultados com TDD, testes unitários, padrões de projeto, OOP e práticas ágeis (Scrum), mantendo código limpo, escalável e sustentável.
 
 ## Sobre mim <!-- [web:2] -->
 - Desenvolvimento de APIs RESTful e integrações seguindo OOP, SOLID, JSON/XML e boas práticas de segurança. <!-- [web:6] -->  
