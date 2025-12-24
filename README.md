@@ -2,59 +2,60 @@
   <img src="https://raw.githubusercontent.com/jvvict0r/jvvict0r/refs/heads/master/cover-thompson.png" height="220" alt="Cover" />
 </p>
 
-# Victor — Desenvolvedor Full Stack (PHP + JavaScript + C++/C#) <!-- [web:2] -->
+# Victor — Desenvolvedor Full Stack
 
-Estudante de Sistemas de Informação na UFS e graduado em Análise e Desenvolvimento de Sistemas pela Unicesumar, com foco em aplicações web de alta performance, arquitetura bem definida e entrega contínua de valor. Experiência em back-end com PHP (Laravel, Zend, Symfony) e no ecossistema full stack JavaScript com React no front-end, Tailwind CSS para estilização e NestJS no back-end.   Atuação orientada a resultados com TDD, testes unitários, padrões de projeto, OOP e práticas ágeis (Scrum), mantendo código limpo, escalável e sustentável.
+Sou desenvolvedor full stack com foco em **entregar sistemas funcionais, bem estruturados e orientados a resultado**. Atuo do back-end ao front-end, priorizando desempenho, organização de código e facilidade de manutenção.
 
-## Sobre mim <!-- [web:2] -->
-- Desenvolvimento de APIs RESTful e integrações seguindo OOP, SOLID, JSON/XML e boas práticas de segurança. <!-- [web:6] -->  
-- Front-ends acessíveis, responsivos e performáticos, com atenção a UX, semântica e acessibilidade. <!-- [web:6] -->  
-- Modelagem e otimização de bancos relacionais e NoSQL com foco em consistência, índices e migrações versionadas. <!-- [web:6] -->  
-- Qualidade contínua com TDD, testes de integração, CI/CD, code review e versionamento estruturado. <!-- [web:2] -->
+Atualmente curso **Sistemas de Informação (UFS)** e sou formado em **Análise e Desenvolvimento de Sistemas**, com experiência prática no desenvolvimento de aplicações web, APIs, painéis administrativos e integrações.
 
-## Full Stack JavaScript <!-- [web:6] -->
+---
 
-### React <!-- [web:6] -->
-- Componentização com Hooks e Context, tipagem com TypeScript e organização por features. <!-- [web:6] -->  
-- Performance com memoização, code-splitting e lazy loading, além de testes com Jest/RTL. <!-- [web:6] -->  
-- Acessibilidade seguindo WAI‑ARIA e semântica para interfaces inclusivas. <!-- [web:6] -->
+## Sobre mim
 
-### Tailwind CSS <!-- [web:6] -->
-- Abordagem utility‑first para velocidade, consistência e manutenção previsível do design system. <!-- [web:6] -->  
-- Tokens de design, responsividade, estados e dark mode, com build enxuto via JIT/purge. <!-- [web:6] -->  
-- Convenções de nomenclatura e componentes utilitários para padronização. <!-- [web:6] -->
+- Desenvolvimento de **aplicações web completas**, da modelagem do banco à interface final  
+- Forte atuação em **back-end**, com atenção à regra de negócio e segurança  
+- Código limpo, organizado e sustentável, seguindo **boas práticas e padrões de projeto**  
+- Mentalidade orientada a **resultado, performance e estabilidade**  
+- Experiência com **testes**, revisão de código e evolução contínua dos sistemas  
 
-### NestJS <!-- [web:6] -->
-- Arquitetura modular com controllers, providers e injeção de dependências para evolução segura. <!-- [web:6] -->  
-- DTOs, validação, guards e interceptors, com documentação via Swagger e versionamento de API. <!-- [web:6] -->  
-- Integração com ORMs (TypeORM/Prisma), estratégias de cache, testes com Jest e observabilidade. <!-- [web:6] -->
+Mais do que “fazer funcionar”, busco construir soluções **confiáveis, escaláveis e fáceis de manter** ao longo do tempo.
 
-## PHP e Laravel <!-- [web:2] -->
-- Eloquent, migrations, seeders, policies e middlewares para domínios robustos. <!-- [web:6] -->  
-- Filas, eventos e jobs para workloads assíncronos e escalabilidade previsível. <!-- [web:6] -->  
-- Autenticação/autorização com OAuth2/JWT, rate limiting e otimizações de consultas. <!-- [web:6] -->
+---
 
-## C++ e C#/.NET <!-- [web:25] -->
+## Desenvolvimento Web (Full Stack)
 
-### C++ Moderno <!-- [web:20] -->
-- Uso de recursos modernos (C++17/20), RAII, ponteiros inteligentes, STL e diretrizes de segurança e desempenho conforme os C++ Core Guidelines. <!-- [web:20] -->  
-- Design com interfaces claras, gerenciamento de recursos, tratamento de erros e concorrência alinhados às seções de Interfaces, Resource management, Error handling e Concurrency dos Guidelines. <!-- [web:27] -->  
-- Qualidade com análises estáticas e checkers compatíveis com os C++ Core Guidelines em toolchains modernos. <!-- [web:30] -->
+### Back-end
+- **PHP (Laravel)** para APIs, sistemas administrativos e aplicações robustas  
+- **NestJS** para serviços modernos, bem organizados e escaláveis  
+- Arquitetura clara, separação de responsabilidades e foco em manutenibilidade  
+- Autenticação, autorização, filas, jobs e integrações externas  
 
-### C# e ASP.NET Core <!-- [web:25] -->
-- Desenvolvimento de APIs e serviços web rápidos, seguros e multiplataforma com ASP.NET Core, usando middleware, injeção de dependências e logging estruturado. <!-- [web:25] -->  
-- Acesso a dados com Entity Framework Core, mapeamento O/RM, migrações e providers multiplataforma. <!-- [web:26] -->  
-- Testes e observabilidade com suporte a unit/integration tests e práticas de desempenho e depuração integradas no ecossistema .NET. <!-- [web:25] -->
+### Front-end
+- **React** para interfaces dinâmicas e bem estruturadas  
+- **Tailwind CSS** para estilização rápida, consistente e responsiva  
+- Atenção à experiência do usuário, acessibilidade e performance  
 
-## Banco de dados <!-- [web:6] -->
-- PostgreSQL e MySQL: modelagem normalizada, índices, views, procedures e tuning de queries. <!-- [web:6] -->  
-- MongoDB: modelos orientados a documentos quando flexibilidade e leitura alta são prioridades. <!-- [web:6] -->  
-- Migrações versionadas, backups e monitoramento de performance com métricas. <!-- [web:6] -->
+---
 
-## Qualidade, processos e entrega <!-- [web:2] -->
-- TDD, testes unitários e de integração com foco nas regras de negócio. <!-- [web:6] -->  
-- Padrões de projeto, SOLID e clean code, com pipelines de CI/CD e GitFlow/Trunk‑Based. <!-- [web:2] -->  
-- Conteinerização com Docker, ambientes reprodutíveis, logging estruturado e métricas. <!-- [web:6] -->
+## Testes, qualidade e entrega
+
+- Código escrito pensando em **testabilidade desde o início**  
+- Testes unitários e de integração para garantir estabilidade das regras de negócio  
+- Uso de **TDD quando aplicável**, reduzindo falhas e retrabalho  
+- Versionamento organizado, revisão de código e pipelines de CI/CD  
+- Ambientes reproduzíveis com **Docker**  
+
+---
+
+## Outras linguagens e experiência
+
+Além do desenvolvimento web, também possuo experiência com:
+
+- **C++ moderno**, com foco em desempenho, controle de recursos e sistemas de baixo nível  
+- **C# / .NET**, para APIs e serviços multiplataforma  
+- Bancos de dados relacionais e NoSQL, sempre priorizando consistência e performance  
+
+---
 
 ## Tech Stack <!-- [web:9] -->
 
