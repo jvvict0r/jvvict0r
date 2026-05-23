@@ -22,28 +22,28 @@
 
 ## Tech Stack & Ferramentas
 
-### Web (Back-end & Front-end)
+<h3 align="center">Web (Back-end & Front-end)</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nest,react,nextjs,typescript,js,tailwindcss,html,css" alt="Web Stack" />
   </a>
 </p>
 
-### Bancos de Dados & Cache
+<h3 align="center">Bancos de Dados & Cache</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
   </a>
 </p>
 
-### Desktop & Outras Linguagens
+<h3 align="center">Desktop & Outras Linguagens</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,py,java,ruby" alt="Desktop and Other Languages" />
   </a>
 </p>
 
-### Infraestrutura & DevOps
+<h3 align="center">Infraestrutura & DevOps</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux" alt="DevOps Tools" />
